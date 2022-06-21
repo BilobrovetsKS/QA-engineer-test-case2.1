@@ -13,9 +13,9 @@
 Как запустить проект:
 - запустить IntelliJIdea;
 - перейти: file/new/Project From Version Control…;
- - выбрать git, как систему контроля версий;
- - вставить в URL: https://github.com/BilobrovetsKS/QA-engineer-test-case2.1.git
- - нажать на clone;
+  - выбрать git, как систему контроля версий;
+  - вставить в URL: https://github.com/BilobrovetsKS/QA-engineer-test-case2.1.git
+  - нажать на clone;
 - перейти к файлу test-api/src/test/java/api_test/PetStoreTest.java
 - подгрузить все необходимые библиотеки;
 - запустить тест.
